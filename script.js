@@ -25,4 +25,4 @@ setTimeout(()=>{
 	e.target.style.backgroundColor = "transparent"
 },1000)
 }
-div.addEventListener("click",colorPicker)
+div.addEventListener("mouseover",colorPicker)
